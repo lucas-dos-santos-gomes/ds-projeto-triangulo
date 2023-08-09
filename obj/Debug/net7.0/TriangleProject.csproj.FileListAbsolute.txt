@@ -1,0 +1,15 @@
+C:\Users\usuario1\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TriangleProject\bin\Debug\net7.0\TriangleProject.exe
+C:\Users\usuario1\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TriangleProject\bin\Debug\net7.0\TriangleProject.deps.json
+C:\Users\usuario1\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TriangleProject\bin\Debug\net7.0\TriangleProject.runtimeconfig.json
+C:\Users\usuario1\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TriangleProject\bin\Debug\net7.0\TriangleProject.dll
+C:\Users\usuario1\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TriangleProject\bin\Debug\net7.0\TriangleProject.pdb
+C:\Users\usuario1\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TriangleProject\obj\Debug\net7.0\TriangleProject.csproj.AssemblyReference.cache
+C:\Users\usuario1\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TriangleProject\obj\Debug\net7.0\TriangleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario1\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TriangleProject\obj\Debug\net7.0\TriangleProject.AssemblyInfoInputs.cache
+C:\Users\usuario1\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TriangleProject\obj\Debug\net7.0\TriangleProject.AssemblyInfo.cs
+C:\Users\usuario1\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TriangleProject\obj\Debug\net7.0\TriangleProject.csproj.CoreCompileInputs.cache
+C:\Users\usuario1\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TriangleProject\obj\Debug\net7.0\TriangleProject.dll
+C:\Users\usuario1\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TriangleProject\obj\Debug\net7.0\refint\TriangleProject.dll
+C:\Users\usuario1\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TriangleProject\obj\Debug\net7.0\TriangleProject.pdb
+C:\Users\usuario1\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TriangleProject\obj\Debug\net7.0\TriangleProject.genruntimeconfig.cache
+C:\Users\usuario1\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TriangleProject\obj\Debug\net7.0\ref\TriangleProject.dll

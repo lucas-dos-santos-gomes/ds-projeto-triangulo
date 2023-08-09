@@ -1,9 +1,9 @@
-﻿namespace TriangleProject;
+﻿using System;
 
-class Program
-{
-    static void Main(string[] args)
-    {
-        Console.WriteLine("Hello, World!");
-    }
+namespace TriangleProject;
+
+class Program {
+  static void Main(string[] args) {
+    Console.WriteLine("Hello, World!");
+  }
 }

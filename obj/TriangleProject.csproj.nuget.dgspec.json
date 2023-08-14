@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\usuario1\\VisualStudioCodeProjects\\etec\\desenvolvimento-de-sistemas\\TriangleProject\\TriangleProject.csproj": {}
+    "h:\\VisualStudioCodeProjects\\etec\\desenvolvimento-de-sistemas\\TriangleProject\\TriangleProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\usuario1\\VisualStudioCodeProjects\\etec\\desenvolvimento-de-sistemas\\TriangleProject\\TriangleProject.csproj": {
+    "h:\\VisualStudioCodeProjects\\etec\\desenvolvimento-de-sistemas\\TriangleProject\\TriangleProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\usuario1\\VisualStudioCodeProjects\\etec\\desenvolvimento-de-sistemas\\TriangleProject\\TriangleProject.csproj",
+        "projectUniqueName": "h:\\VisualStudioCodeProjects\\etec\\desenvolvimento-de-sistemas\\TriangleProject\\TriangleProject.csproj",
         "projectName": "TriangleProject",
-        "projectPath": "C:\\Users\\usuario1\\VisualStudioCodeProjects\\etec\\desenvolvimento-de-sistemas\\TriangleProject\\TriangleProject.csproj",
+        "projectPath": "h:\\VisualStudioCodeProjects\\etec\\desenvolvimento-de-sistemas\\TriangleProject\\TriangleProject.csproj",
         "packagesPath": "C:\\Users\\usuario1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\usuario1\\VisualStudioCodeProjects\\etec\\desenvolvimento-de-sistemas\\TriangleProject\\obj\\",
+        "outputPath": "h:\\VisualStudioCodeProjects\\etec\\desenvolvimento-de-sistemas\\TriangleProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\usuario1\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -6,13 +6,11 @@ namespace TriangleProject {
     private double[] sides = new double[3];
     private double perimeter;
     private double area;
-    private string type;
+    private string classification;
 
     public Triangle(double side1, double side2, double side3) {
-      GetSides()[0] = side1;
-      GetSides()[1] = side2;
-      GetSides()[2] = side3;
-
+      double[] newSides = {side1, side2, side3};
+      SetSides(newSides);
       CalculatePerimeter();
     }
 
@@ -40,35 +38,35 @@ namespace TriangleProject {
       this.area = area;
     }
 
-    public string GetTriangleType() {
-      return type;
+    public string GetClassification() {
+      return classification;
     }
 
-    public void SetType(string type) {
-      this.type = type;
+    public void SetClassification(string classification) {
+      this.classification = classification;
     }
 
     public bool IsTriangle() {
-      for(int i = 0; i <= GetSides().Length; i++) {
+      for(int i = 0; i < GetSides().Length; i++) {
         double sumTwoSides = 0;
-        for(int j = 0; j <= GetSides().Length; j++) {
-          sumTwoSides += (j != i) ? j : 0;
-          if(i < sumTwoSides) {
-            CalculateArea();
-            return true;
-          }
+        for(int j = 0; j < GetSides().Length; j++) {
+          sumTwoSides += (j != i) ? GetSides()[j] : 0;
+        }
+        if(GetSides()[i] > sumTwoSides) {
+          return false;
         }
       }
-      return false;
+      CalculateArea();
+      return true;
     }
 
     public void CalculateArea() {
       double sp = GetPerimeter() / 2;
-      SetArea(sp);
-      for(int i = 0; i <= GetSides().Length; i++) {
-        SetArea(area *= sp - GetSides()[i]);
+      double calculatingArea = sp;
+      for(int i = 0; i < GetSides().Length; i++) {
+        calculatingArea *= sp - GetSides()[i];
       }
-      SetArea(Math.Sqrt(GetArea()));
+      SetArea(Math.Sqrt(calculatingArea));
     }
 
     public void CalculatePerimeter() {
@@ -77,13 +75,13 @@ namespace TriangleProject {
 
     public void Classify() {
       if(GetSides().Sum() / GetSides().Length == GetSides()[0]) {
-        SetType("equilátero");
+        SetClassification("equilátero");
       } else if((GetSides()[0] == GetSides()[1] && GetSides()[1] != GetSides()[2]) 
       || (GetSides()[1] == GetSides()[2] && GetSides()[2] != GetSides()[0]) 
-      || (GetSides()[3] == GetSides()[1] && GetSides()[1] != GetSides()[2])) {
-        SetType("isóceles");
+      || (GetSides()[2] == GetSides()[0] && GetSides()[0] != GetSides()[1])) {
+        SetClassification("isóceles");
       } else {
-        SetType("escaleno");
+        SetClassification("escaleno");
       }
     }
   }

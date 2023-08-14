@@ -1,0 +1,15 @@
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TriangleProject\bin\Release\net7.0\TriangleProject.exe
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TriangleProject\bin\Release\net7.0\TriangleProject.deps.json
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TriangleProject\bin\Release\net7.0\TriangleProject.runtimeconfig.json
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TriangleProject\bin\Release\net7.0\TriangleProject.dll
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TriangleProject\bin\Release\net7.0\TriangleProject.pdb
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TriangleProject\obj\Release\net7.0\TriangleProject.csproj.AssemblyReference.cache
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TriangleProject\obj\Release\net7.0\TriangleProject.GeneratedMSBuildEditorConfig.editorconfig
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TriangleProject\obj\Release\net7.0\TriangleProject.AssemblyInfoInputs.cache
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TriangleProject\obj\Release\net7.0\TriangleProject.AssemblyInfo.cs
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TriangleProject\obj\Release\net7.0\TriangleProject.csproj.CoreCompileInputs.cache
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TriangleProject\obj\Release\net7.0\TriangleProject.dll
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TriangleProject\obj\Release\net7.0\refint\TriangleProject.dll
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TriangleProject\obj\Release\net7.0\TriangleProject.pdb
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TriangleProject\obj\Release\net7.0\TriangleProject.genruntimeconfig.cache
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TriangleProject\obj\Release\net7.0\ref\TriangleProject.dll

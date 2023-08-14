@@ -1,0 +1,5 @@
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TriangleProject\bin\Release\net7.0\publish\TriangleProject.exe
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TriangleProject\bin\Release\net7.0\publish\TriangleProject.dll
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TriangleProject\bin\Release\net7.0\publish\TriangleProject.deps.json
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TriangleProject\bin\Release\net7.0\publish\TriangleProject.runtimeconfig.json
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TriangleProject\bin\Release\net7.0\publish\TriangleProject.pdb
